@@ -13,7 +13,7 @@
 - 🌐 Based in Perinthalmanna, Kerala, India.
 - ✨ My tech stack: .NET, React, SQL Server, C#, Entity Framework, Redux, Material UI and more.
 - 📚 Always learning and experimenting with clean architecture, microservices, and real-time apps.
-- 📢 Reach me at: **ashiqamohd@gmail.com** — Let's connect and build something awesome!
+- 📢 Reach me at: **ashiqamohammed@gmail.com** — Let's connect and build something awesome!
 - 😄 Fun fact: I love debugging more than breaking code!
 
 ---
