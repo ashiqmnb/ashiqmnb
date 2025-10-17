@@ -9,7 +9,7 @@
 #### 🌟 My Journey:
 
 - 🚀 Currently working as an intern at Bridgeon Solutions, crafting seamless full-stack web apps.
-- 🎓 Graduate in BCA from Gems College, University of Calicut.
+- 🎓 Graduate in BCA from GEMS Arts and Science College (Autonomous), University of Calicut. 
 - 🌐 Based in Perinthalmanna, Kerala, India.
 - ✨ My tech stack: .NET, React, SQL Server, C#, Entity Framework, Redux, Material UI and more.
 - 📚 Always learning and experimenting with clean architecture, microservices, and real-time apps.
