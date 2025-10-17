@@ -21,7 +21,7 @@
 ### 🛠️ Technologies & Tools I Work With:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,react,redux,ts,js,html,css,bootstrap,tailwind,git,github,figma,ps,mssql,postgres,azure,vscode" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,react,redux,ts,js,html,css,bootstrap,tailwind,git,github,figma,ps,mssql,vscode" />
 </p>
 
 ---
