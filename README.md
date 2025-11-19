@@ -8,10 +8,10 @@
 
 #### 🌟 My Journey:
 
-- 🚀 Currently working as an intern at Bridgeon Solutions, crafting seamless full-stack web apps.
+- 🚀 Currently working as an .NET Developer at Techensglobal Pvt Ltd.
 - 🎓 Graduate in BCA from GEMS Arts and Science College (Autonomous), University of Calicut. 
 - 🌐 Based in Perinthalmanna, Kerala, India.
-- ✨ My tech stack: .NET, React, SQL Server, C#, Entity Framework, Redux, Material UI and more.
+- ✨ My tech stack: .NET, React, SQL Server, C#, Entity Framework, Material UI, Tailwind Css and more.
 - 📚 Always learning and experimenting with clean architecture, microservices, and real-time apps.
 - 📢 Reach me at: **ashiqamohammed@gmail.com** — Let's connect and build something awesome!
 - 😄 Fun fact: I love debugging more than breaking code!
