@@ -1,6 +1,7 @@
 ### Hi 👋, I'm Mohammed Ashiq A
 
-<img src="https://github.com/ashiqmnb/ashiqmnb/blob/main/assets/banner.jpeg" alt="Banner" width="100%"/>
+<!-- <img src="https://github.com/ashiqmnb/ashiqmnb/blob/main/assets/banner.jpeg" alt="Banner" width="100%"/> -->
+<img src="https://github.com/ashiqmnb/ashiqmnb/blob/main/assets/Your paragraph text.jpg" alt="Banner" width="100%"/>
 
 ---
 
